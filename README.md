@@ -70,5 +70,3 @@ pytest
   alembic upgrade head
   ```
 
-## License
-MIT
